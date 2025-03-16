@@ -14,4 +14,4 @@
   <a href="https://www.linkedin.com/in/mariaeduardacoutinhoalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8e2837?style=for-the-badge&logo=linkedin&logoColor=d6b6b6" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com//rafaballerini/skyra18/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com//skyra18/skyra18/blob/output/github-contribution-grid-snake.svg)
