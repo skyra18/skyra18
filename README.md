@@ -11,7 +11,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 
 #
 
-<img align="right" alt="" height="110px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
+<img align="right" alt="" height="120px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -19,7 +19,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mariaeduardacoutinhoalves/)
 <div>
 
-#
 #
 
 <div style="text-align: center;" align="center">
