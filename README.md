@@ -4,21 +4,22 @@
   </a>
 </div>
 
-#
-
-<p align="center">Estudante de Ciência e Tecnologia na Universidade Federal do ABC. Técnica em Agrimensura pelo IFSULDEMINAS. Atualmente trabalho no eixo de infraestrutura, porém estudo programação, análise de dados e softwares de sensoriamento remoto paralelamente.
+<p align="center">Técnica em Agrimensura e estudante de Ciência e Tecnologia na Universidade Federal do ABC. Atualmente trabalho no eixo de infraestrutura, porém estudo programação, análise de dados e softwares de sensoriamento remoto paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios. Tenho paixão por aprender e crescer intelectualmente.
 
 #
 
-<img align="right" alt="" height="120px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:eduarda.alves@aluno.ufabc.edu.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mariaeduardacoutinhoalves/)
+  <a href = "mailto:eduarda.alves@aluno.ufabc.edu.br"><img src="https://img.shields.io/badge/-Gmail-ff6699?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariaeduardacoutinhoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ff6699?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 <div>
 
+#
 #
 
 <div style="text-align: center;" align="center">
@@ -33,11 +34,18 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 
 #
 
+<h3 align="left">My Stack </h3>
 
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyra18/skyra18/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyra18/skyra18/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/skyra18/skyra18/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
