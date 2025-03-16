@@ -9,9 +9,9 @@
 
 ##
 
-<div>
-  <a href="mailto:eduarda.alves@aluno.ufabc.edu.br"><img src="https://img.shields.io/badge/Gmail-d6b6b6?style=for-the-badge&logo=gmail&logoColor=8e2837"
-  <a href="https://www.linkedin.com/in/mariaeduardacoutinhoalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8e2837?style=for-the-badge&logo=linkedin&logoColor=d6b6b6" target="_blank"></a>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyra18/skyra18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyra18/skyra18/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/skyra18/skyra18/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Snake animation](https://github.com/skyra18/skyra18/blob/output/github-contribution-grid-snake.svg)
