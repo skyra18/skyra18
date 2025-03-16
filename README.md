@@ -4,12 +4,14 @@
   </a>
 </div>
 
-<p align="center">Estudante de Ciência e Tecnologia na Universidade Federal do ABC. Atualmente trabalho no eixo de infraestrutura, porém estudo programação, análise de dados e softwares de sensoriamento remoto paralelamente.
+#
+
+<p align="center">Estudante de Ciência e Tecnologia na Universidade Federal do ABC. Técnica em Agrimensura pelo IFSULDEMINAS. Atualmente trabalho no eixo de infraestrutura, porém estudo programação, análise de dados e softwares de sensoriamento remoto paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios. Tenho paixão por aprender e crescer intelectualmente.
 
 #
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
+<img align="right" alt="" height="110px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
 
 <h3 align="left">Connect with me!</h3>
 
