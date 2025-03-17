@@ -9,7 +9,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 
 #
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/f56a8e8e-5689-48f3-b61f-5d8132a1c7c5">
+<img align="right" alt="" height="115px" src="https://github.com/user-attachments/assets/48f6ef0b-56c8-4db8-ba78-89074b90142f">
 
 <h3 align="left">Connect with me!</h3>
 
