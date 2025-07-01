@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">Técnica em Agrimensura e estudante de Ciência e Tecnologia na Universidade Federal do ABC. Atualmente trabalho no eixo de infraestrutura, porém estudo programação, análise de dados e softwares de sensoriamento remoto paralelamente.
+<p align="center">Técnica em Agrimensura e estudante de Ciência e Tecnologia e Engenharia de Gestão na Universidade Federal do ABC. Atualmente trabalho no eixo de infraestrutura, porém estudo programação, análise de dados e softwares de sensoriamento remoto paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios. Tenho paixão por aprender e crescer intelectualmente.
 
 #
