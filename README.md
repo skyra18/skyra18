@@ -22,14 +22,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 #
 
 <div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=skyra18&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=ffcc99&title_color=ff6699&text_color=ff6699&border_radius=3&border_color=ffcc99&icon_color=ff6699&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skyra18&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff6699&hide=html,scss,less&bg_color=ffcc99&text_color=ff6699&border_radius=3&border_color=ffcc99&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
+ <a href="https://github.com/Gurupreet"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyra18&theme=bear&hide_langs_below=1" /> 
+ </a> 
+
+ <a href="https://github.com/Gurupreet"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skyra18&show_icons=true&theme=bear&line_height=27" alt="**SEU NOME** github stats"/> 
+ </a> 
 
 #
 
