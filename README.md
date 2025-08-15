@@ -23,13 +23,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 
 <div style="text-align: center;" align="center">
 
- <a href="https://github.com/Gurupreet"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyra18&theme=bear&hide_langs_below=1" /> 
- </a> 
 
- <a href="https://github.com/Gurupreet"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skyra18&show_icons=true&theme=bear&line_height=27" alt="**SEU NOME** github stats"/> 
- </a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyra18&theme=bear&layout=compact)
 
 #
 
