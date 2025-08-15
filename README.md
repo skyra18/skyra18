@@ -14,7 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios. T
 <h3 align="left">Connect with me!</h3>
 
   <a href = "mailto:eduarda.alves@aluno.ufabc.edu.br"><img src="https://img.shields.io/badge/-Gmail-ff6699?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariaeduardacoutinhoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ff6699?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/skyraalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ff6699?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 </div>
